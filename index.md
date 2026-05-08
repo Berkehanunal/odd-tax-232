@@ -27,9 +27,9 @@
   <br>
   <sup>3</sup>Faculty of Information Technology, University of Jyväskylä, Jyväskylä, Finland
   <br>
-  <sup>4</sup>Moia, Berlin, Germany
+  <sup>4</sup>Moia GmbH, Hamburg, Germany
   <br>
-  <sup>5</sup>Motor AI, Berlin, Germany
+  <sup>5</sup>Motor AI GmbH, Berlin, Germany
 </p>
 
 <details>
