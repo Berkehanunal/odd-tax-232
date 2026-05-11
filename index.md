@@ -2,6 +2,7 @@
 
 [![license badge](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/Code-Ready%20to%20go!-darkgreen?logo=github)](https://github.com/Berkehanunal/odd-tax-232)
+[![arXiv](https://img.shields.io/badge/Preprint-2605.07649-%23B31B1B?logo=arxiv)](https://arxiv.org/abs/2605.07649)
 
 
 <p align="center">
