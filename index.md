@@ -39,7 +39,13 @@
 </details>
 
 ## Motivation of this Project
+The Operational Design Domain (ODD) is one of the most important parts of autonomous driving safety, because it defines the exact conditions under which an automated driving system is intended to operate safely. As ODD taxonomies grow and evolve across standards, countries, and use cases, the challenge is no longer only defining them, but also detecting them reliably in real-world scenes.
 
+At the same time, vision-language models (VLMs) and large language models (LLMs) have rapidly advanced, opening the door to zero-shot perception without task-specific training. This creates a promising opportunity: can modern multimodal models act as flexible “ODD sensors” that recognize fine-grained ODD taxonomy elements from camera images?
+
+To study this question, we created ODD-TAX-232, a custom benchmark with 232 ODD concepts and 2,320 curated images, and evaluated multiple VLMs under different prompting strategies. Our goal is to understand how well these models can detect ODD concepts, where they fail, and which prompting designs work best for fine-grained autonomous driving perception.
+
+This matters because current public attention often focuses on a few obvious road elements, while the broader ODD taxonomy is much richer and still expanding. By making ODD perception more transparent, adaptable, and scalable, this work supports safer validation, auditing, and deployment of autonomous driving systems.
 
 ## Contributions
 1. An experimental study comparing the zero-shot classification and detection abilities of different VLMs, ranging from large, closed-source, general-purpose models, to smaller open-sourced specialized systems, and analyzing their failure modes and common patterns
